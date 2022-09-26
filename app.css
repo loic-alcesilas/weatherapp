@@ -6,6 +6,25 @@ body {
     min-height: 100vh;
 }
 
+#inputCity {
+    width: 100%;
+    max-width: 280px;
+    padding: 8px 15px;
+    border: none;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 16px 0px 16px 0px;
+    border-bottom: 4px solid #DF8E00;
+    color: #313131;
+    font-size: 14px;
+    font-weight: 300;
+    transition: 0.2s ease-out;
+}
+
+
 .box-container {
     width: 300px;
     height: 300px;
